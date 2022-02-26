@@ -7,7 +7,7 @@
 - BOOTSTRAP
 - javaScript
 
-[Live Link :](https://lucid-hamilton-d64545.netlify.app/)
+[Live Link :](https://sanudas2018.github.io/weather-project/)
 
 <img src="./assets/images/PERSONAL MONTHLY ACCOUNT Destop.png" alt="">
 <img src="./assets/images/PERSONAL MONTHLY ACCOUNT mobile.png" alt="">
